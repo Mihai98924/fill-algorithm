@@ -1,0 +1,31 @@
+C:\Users\Mihai Pop\Desktop\Algoritmul_Fill\Algoritmul_Fill\bin\Debug\Algoritmul_Fill.exe.config
+C:\Users\Mihai Pop\Desktop\Algoritmul_Fill\Algoritmul_Fill\bin\Debug\Algoritmul_Fill.exe
+C:\Users\Mihai Pop\Desktop\Algoritmul_Fill\Algoritmul_Fill\bin\Debug\Algoritmul_Fill.pdb
+C:\Users\Mihai Pop\Desktop\Algoritmul_Fill\Algoritmul_Fill\obj\Debug\Algoritmul_Fill.animatie.resources
+C:\Users\Mihai Pop\Desktop\Algoritmul_Fill\Algoritmul_Fill\obj\Debug\Algoritmul_Fill.cerinta.resources
+C:\Users\Mihai Pop\Desktop\Algoritmul_Fill\Algoritmul_Fill\obj\Debug\Algoritmul_Fill.Form1.resources
+C:\Users\Mihai Pop\Desktop\Algoritmul_Fill\Algoritmul_Fill\obj\Debug\Algoritmul_Fill.Form2.resources
+C:\Users\Mihai Pop\Desktop\Algoritmul_Fill\Algoritmul_Fill\obj\Debug\Algoritmul_Fill.problema.resources
+C:\Users\Mihai Pop\Desktop\Algoritmul_Fill\Algoritmul_Fill\obj\Debug\Algoritmul_Fill.Properties.Resources.resources
+C:\Users\Mihai Pop\Desktop\Algoritmul_Fill\Algoritmul_Fill\obj\Debug\Algoritmul_Fill.solutie_cpp.resources
+C:\Users\Mihai Pop\Desktop\Algoritmul_Fill\Algoritmul_Fill\obj\Debug\Algoritmul_Fill.csproj.GenerateResource.cache
+C:\Users\Mihai Pop\Desktop\Algoritmul_Fill\Algoritmul_Fill\obj\Debug\Algoritmul_Fill.csproj.CoreCompileInputs.cache
+C:\Users\Mihai Pop\Desktop\Algoritmul_Fill\Algoritmul_Fill\obj\Debug\Algoritmul_Fill.exe
+C:\Users\Mihai Pop\Desktop\Algoritmul_Fill\Algoritmul_Fill\obj\Debug\Algoritmul_Fill.pdb
+D:\final\Algoritmul_Fill\Algoritmul_Fill\bin\Debug\Algoritmul_Fill.exe.config
+D:\final\Algoritmul_Fill\Algoritmul_Fill\bin\Debug\Algoritmul_Fill.exe
+D:\final\Algoritmul_Fill\Algoritmul_Fill\bin\Debug\Algoritmul_Fill.pdb
+D:\final\Algoritmul_Fill\Algoritmul_Fill\obj\Debug\Algoritmul_Fill.csprojAssemblyReference.cache
+D:\final\Algoritmul_Fill\Algoritmul_Fill\obj\Debug\Algoritmul_Fill.animatie.resources
+D:\final\Algoritmul_Fill\Algoritmul_Fill\obj\Debug\Algoritmul_Fill.cerinta.resources
+D:\final\Algoritmul_Fill\Algoritmul_Fill\obj\Debug\Algoritmul_Fill.Form1.resources
+D:\final\Algoritmul_Fill\Algoritmul_Fill\obj\Debug\Algoritmul_Fill.Form2.resources
+D:\final\Algoritmul_Fill\Algoritmul_Fill\obj\Debug\Algoritmul_Fill.problema.resources
+D:\final\Algoritmul_Fill\Algoritmul_Fill\obj\Debug\Algoritmul_Fill.Properties.Resources.resources
+D:\final\Algoritmul_Fill\Algoritmul_Fill\obj\Debug\Algoritmul_Fill.solutie_cpp.resources
+D:\final\Algoritmul_Fill\Algoritmul_Fill\obj\Debug\Algoritmul_Fill.csproj.GenerateResource.cache
+D:\final\Algoritmul_Fill\Algoritmul_Fill\obj\Debug\Algoritmul_Fill.csproj.CoreCompileInputs.cache
+D:\final\Algoritmul_Fill\Algoritmul_Fill\obj\Debug\Algoritmul_Fill.exe
+D:\final\Algoritmul_Fill\Algoritmul_Fill\obj\Debug\Algoritmul_Fill.pdb
+C:\Users\Mihai Pop\Desktop\Algoritmul_Fill\Algoritmul_Fill\obj\Debug\Algoritmul_Fill.csprojAssemblyReference.cache
+C:\Users\Mihai Pop\Desktop\Algoritmul_Fill\Algoritmul_Fill\obj\Debug\Algoritmul_Fill.Form3.resources
